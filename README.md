@@ -61,7 +61,7 @@ These transformations produce a standardized feature array with shape **(86,437,
 
 ## Model Architecture
 
-![Model Architecture](images/model_architecture.png)
+![Model Architecture](images/model_architecture.jpg)
 
 - **Input:** 128x128 RGB images
 - **Convolutional Block 1:**
