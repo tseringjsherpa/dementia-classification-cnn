@@ -119,4 +119,4 @@ Overall, the systematic approach—starting simple, prototyping on subsets, and 
 
 ## Author
 
-Tsering Sherpa
+Tsering Jigme Sherpa
